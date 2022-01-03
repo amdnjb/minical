@@ -1,0 +1,7 @@
+.dockerignore
+.env.example
+.env
+docker-compose.yml
+README.md
+Dockerfile
+#public/.htaccess
